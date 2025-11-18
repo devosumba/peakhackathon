@@ -78,7 +78,14 @@ const Index = () => {
             <div>
               <h1 className="text-2xl font-bold">Smart CSV Data Cleaner</h1>
               <p className="text-sm text-muted-foreground">
-                Peak Mobile Hackathon - Bundle Allocation Tool
+                <a
+                  href="https://www.linkedin.com/in/austine-osumba-689327207/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="underline hover:text-primary"
+                >
+                  Developed by Austine Osumba
+                </a>
               </p>
             </div>
           </div>
