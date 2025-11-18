@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="32" viewBox="0 0 160 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Smart CSV Data Cleaner logo</title>
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6B35"/>
+      <stop offset="50%" stop-color="#FF3D81"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded background -->
+  <rect x="0" y="0" rx="6" ry="6" width="160" height="32" fill="url(#g1)" />
+
+  <!-- Simple white mark (abstract 'C' / check-like) to make it identifiable) -->
+  <g transform="translate(18,6)">
+    <path d="M4 6 C4 3.8 5.8 2 8 2 C10.2 2 12 3.8 12 6 C12 8.2 10.2 10 8 10 C6.9 10 5.9 9.7 5.1 9.1" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.95" />
+    <path d="M14 2 L20 8 L14 14" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.95" />
+  </g>
+
+</svg>
