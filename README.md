@@ -13,7 +13,7 @@ Key features
 - Export cleaned CSV files
 
 Tech stack
-- Vite
+
 - React + TypeScript
 - Tailwind CSS
 
